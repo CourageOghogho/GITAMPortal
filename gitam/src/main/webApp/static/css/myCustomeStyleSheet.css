@@ -1,0 +1,42 @@
+ .img-container {
+                text-align: center;
+            }
+
+.header,.footer{
+    background-color:#0094de;
+    color:#fff;
+    
+}
+h2{
+    font-family:"Merriweather";
+    font-weight:800;
+}
+.header2{
+    color:white;
+    display:flex;
+    padding:0px 50px;
+    
+}
+.heading{
+    width:75%;
+}
+.content{
+    background-color:black;
+}
+content.navbar-nav{
+    font-size:28px;
+    font-weight:600;
+
+}
+content.nav-item{
+    padding:5px;
+}
+.footer{
+    
+}
+.nav-link{
+color:white;
+}
+.data{
+    padding:30px;
+}
